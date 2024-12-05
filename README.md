@@ -14,6 +14,6 @@ This project is a choose your own adventure app that utilizes multiple key conce
 
 # Screenshots
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/02dc47bf-3c1d-49c7-a1be-522881597e0d" width="160" /> 
   <img src="https://github.com/user-attachments/assets/0161baaf-ae05-4dd1-8f5e-e89d89a09e5c" width="160" /> 
+  <img src="https://github.com/user-attachments/assets/02dc47bf-3c1d-49c7-a1be-522881597e0d" width="160" /> 
 </p>
